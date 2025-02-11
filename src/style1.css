@@ -1,0 +1,31 @@
+@import "bootstrap/dist/css/bootstrap.min.css";
+
+body {
+    background-color: green;
+}
+
+.card {
+    background-color: white;
+    width: 60vh;
+    margin: auto;
+    aspect-ratio: 4 / 6;
+    border-radius: 30px;
+    box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.5);
+
+}
+
+.corazon {
+    content: "♥";
+}
+
+.pica {
+    content:"♠" ;
+}
+
+.trebol {
+    content: "♣";
+}
+
+.diamante {
+    content: "♦";
+}
